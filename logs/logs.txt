@@ -1,0 +1,4 @@
+WARNING: Please ensure there are no obstacles around the robot and the robot is in the lie down position while running this example.
+Press Enter to continue...Settings joints to default stance.
+Setting joints to sitting position.
+Finished Example. Stopping...
